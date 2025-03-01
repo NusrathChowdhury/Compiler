@@ -1,15 +1,8 @@
 %{
     // Counting for vowels, consonants, and numbers
-    //Test Input 1:
-    //Cat_pq_Dog
-    //Somewhere_in_the_PQ
-    //Somewhere_in_the_pQ
-    //end
-    //Test Output 1:
-    //Valid
-    //Valid
-    //Invalid
-    // + individual digit ke 1ta hisabe nibe   
+    // Write a Flex program that counts the numbers of Vowels, Consonants, and Numerical Values from given inputs. [Use "end" as the terminating command, and it will not be counted].
+    //Test Input 1:A big rabbit ran across 150 miles of road.end
+    //Test Output 1:Vowels = 12,Consonants: 18,Numerical values: 1  
 
 
     int v = 0, c = 0, n = 0;
