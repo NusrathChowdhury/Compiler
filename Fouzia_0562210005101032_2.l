@@ -1,5 +1,9 @@
 %{
     // Counting for Words and numbers
+    //Test Input 1:cat 42 dog 7.end,Test Input 2:99 bottles end
+    //Test Output 1:Word: 2,Number:2,Test Output 2:Word: 1,Number: 1
+
+
     int w = 0, n = 0;
 %}
 
