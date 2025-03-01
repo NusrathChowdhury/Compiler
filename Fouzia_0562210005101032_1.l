@@ -1,6 +1,17 @@
 %{
     // Counting for vowels, consonants, and numbers
-    // + individual digit ke 1ta hisabe nibe    
+    //Test Input 1:
+    //Cat_pq_Dog
+    //Somewhere_in_the_PQ
+    //Somewhere_in_the_pQ
+    //end
+    //Test Output 1:
+    //Valid
+    //Valid
+    //Invalid
+    // + individual digit ke 1ta hisabe nibe   
+
+
     int v = 0, c = 0, n = 0;
 %}
 
